@@ -8,5 +8,6 @@ namespace Dato
 {
     public class Class1
     {
+        String k = "hola";
     }
 }
