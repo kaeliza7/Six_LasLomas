@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Datos
+namespace Dato
 {
     public class Class1
     {
+        String k = "hola";
     }
 }
